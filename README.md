@@ -1,6 +1,6 @@
-# Olá, I'm Adonai Artur 👋
+# Olá, I'm Adonai Artur 
 
-### 👨‍💻 High School Student | Full Stack Developer Junior | Social Impact Enthusiast
+###  High School Student | Full Stack Developer Junior | Social Impact Enthusiast
 
 Born and raised in **Recife, Brazil 🇧🇷**, I’m a high schooler who decided not to wait for a degree to start solving problems. Build tools that help my community and provide digital solutions for those who are often left behind by technology. It´s my real focus!
 
