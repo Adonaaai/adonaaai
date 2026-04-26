@@ -7,7 +7,7 @@ Born and raised in **Recife, Brazil 🇧🇷**, I’m a high schooler who decide
 ---
 
 ###  My Mission
-I don't just want to build "another social app." I want to use my all tech knowledge to create secure, scalable platforms that connect resources to people in need in Recife. My goal is to bridge the gap between high-end tech and social necessity.
+I don't just want to build "another social app." I want to use my all tech knowledge to create secure, scalable platforms that connect resources to people in need. My goal is to bridge the gap between high-end tech and social necessity.
 
 ---
 
