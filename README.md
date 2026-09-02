@@ -36,6 +36,6 @@ I don't just want to build "another social app." I want to use my all tech knowl
 ---
 
 ###  Let's talk!
--  [LinkedIn](www.linkedin.com/in/adonai-artur-b43231372)
+-  www.linkedin.com/in/adonai-artur-b43231372
 -  [Email](mailto:adonaiautur852@gmail.com)
 -  Based in Recife/PE, Brazil.
